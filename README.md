@@ -92,4 +92,6 @@ This is a **Book API** built with **Node.js**, **Express.js**, **MongoDB**, and 
  ###  Run Tests
   - **npm test**
   - jest will run the tests located in the tests/ folder. The test results will be displayed in your terminal.
+  - npm install
+  - node server.js
 
